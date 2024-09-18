@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "graphics.h": "c",
+        "boardgame.h": "c",
+        "sprite.h": "c",
+        "enumgamestate.h": "c",
+        "node.h": "c",
+        "collection.h": "c"
+    }
+}
